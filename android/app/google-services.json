@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486599875366",
+    "project_id": "maso1-2cb2b",
+    "storage_bucket": "maso1-2cb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486599875366:android:312cbbf9c006d65e4c3fe7",
+        "android_client_info": {
+          "package_name": "com.giammy.maso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486599875366-t7sjqjrqlq9q17r0paqsid09gth228qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0MSAHRfSPQpjH0KWWB6l_OlbuuifzUsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486599875366-t7sjqjrqlq9q17r0paqsid09gth228qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
